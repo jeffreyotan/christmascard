@@ -27,8 +27,8 @@ export class CardScene extends Scene {
         this.load.image(IMG_ANGELGABRIEL_BW, 'assets/nativity/Angel-Gabriel---Nativity-Christmas-Story-French-Secondary-bw-RGB.png');
         this.load.spritesheet(IMG_BONFIRE, 'assets/bonfire.png', { frameWidth: 230, frameHeight: 312 });
         this.load.audio(AUDIO_AWAY_IN_A_MANGER, [
-            'assets/audio/away_in_a_manger.mp3',
-            'assets/audio/away_in_a_manger.ogg'
+            'assets/audio/silent_night.mp3',
+            'assets/audio/silent_night.ogg'
         ]);
     }
 
